@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Sarah
 
-I like to:
+I like to: Code, watch movies, and listen to metal. Sometimes I code while doing either of those.
 
-I'm learning:
+I'm learning: CSS3, JavaScript, responsive design, Bootstrap, etc.
 
 ```
 
